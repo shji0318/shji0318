@@ -1,5 +1,7 @@
 안녕하세요. 게임 클라이언트 프로그래머를 목표하고 있는 지대성 입니다.   
-![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) : [Notion이동][notionlink]
+![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+: [Notion][notionlink]
+
 [notionlink]: https://www.notion.so/Ji-Daesung-cee52b95912045428a6a883e4ee05448 "go notion"
    
       
